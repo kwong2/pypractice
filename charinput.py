@@ -6,7 +6,7 @@ age = int(age)
 
 print ("Your name is " + str(name) + " and you are " + str(age) + " years old")
 years = int(100 - age)
-"\n"
+
 print ("You will turn 100 in " + str(years) + " years.")
 
 future = (2016 + years)
